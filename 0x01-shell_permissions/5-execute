@@ -1,2 +1,2 @@
 #!/bin/bash
-su chmod 755 ./hello
+sudo chmod 755 ./hello
